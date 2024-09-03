@@ -4,7 +4,7 @@ I'm **Bledi**. I'm a full-stack developer with **3+ years** of experience. I enj
 
 | piperku.com |
 |:-:|
-|<a href="https://piperku.com?ref=readme"><img src="https://github.com/user-attachments/assets/322d6ba6-7166-4cc8-b682-cf4a5d20475a" alt="Screenshot of piperku.com" width="400"></a><br /><a href="https://bledipiperku.com?ref=readme">Find my porfolio here</a> | 
+|<a href="https://piperku.com?ref=readme"><img src="https://github.com/user-attachments/assets/322d6ba6-7166-4cc8-b682-cf4a5d20475a" alt="Screenshot of piperku.com" width="400"></a><br /><a href="https://piperku.com?ref=readme">Find my porfolio here</a> | 
 
 
 Also, let's connect on twitter! Feel free to dm me for discussion!
