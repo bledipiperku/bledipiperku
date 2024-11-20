@@ -11,7 +11,7 @@
 
 # 👋 Hello!
 
-I'm **Bledi**. I'm a full-stack developer with **3+ years** of experience. I enjoy building sites & apps. My focus is **React (Next.js)**.
+I'm **Bledi**. I'm a full-stack developer with **4+ years** of experience. I enjoy building sites & apps. My focus is **React (Next.js)**.
 
 | piperku.com |
 |:-:|
