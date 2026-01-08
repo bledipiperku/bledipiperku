@@ -4,14 +4,14 @@
   </a>
 
 <p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20engineer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20engineer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 </div>
 
 
 # 👋 Hello!
 
-I'm **Bledi**. I'm a software engineer with **4+ years** of experience. I enjoy building sites & apps. My focus is **React (Next.js)**.
+I'm **Bledi**. I'm a software engineer with **5+ years** of experience. I enjoy building sites & apps. My focus is **React (Next.js)**.
 
 | piperku.com |
 |:-:|
